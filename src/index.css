@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+label {
+  margin-right: 5px;
+}
+
+.row {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: justify;
+  background-color: #d1d1e0;
+}
+
+.row .description {
+  font-weight: bold;
+}
+
+.windowsPhoto p {
+  margin-bottom: 30px;
+}
+
+.row img {
+  width: 90%;
+  height: 90%;
+  margin: 10px;
+}
+
+.option {
+  width: 300px;
+  background-color: #b3b3cc;
+}
