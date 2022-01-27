@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/VehicleConfigurator/static/css/main.3f408fc5.chunk.css",
+    "main.js": "/VehicleConfigurator/static/js/main.8872f1aa.chunk.js",
+    "main.js.map": "/VehicleConfigurator/static/js/main.8872f1aa.chunk.js.map",
+    "runtime-main.js": "/VehicleConfigurator/static/js/runtime-main.d63e380b.js",
+    "runtime-main.js.map": "/VehicleConfigurator/static/js/runtime-main.d63e380b.js.map",
+    "static/css/2.3661fc73.chunk.css": "/VehicleConfigurator/static/css/2.3661fc73.chunk.css",
+    "static/js/2.48204687.chunk.js": "/VehicleConfigurator/static/js/2.48204687.chunk.js",
+    "static/js/2.48204687.chunk.js.map": "/VehicleConfigurator/static/js/2.48204687.chunk.js.map",
+    "index.html": "/VehicleConfigurator/index.html",
+    "precache-manifest.97861b1289d583acaba7095998ebecbd.js": "/VehicleConfigurator/precache-manifest.97861b1289d583acaba7095998ebecbd.js",
+    "service-worker.js": "/VehicleConfigurator/service-worker.js",
+    "static/css/2.3661fc73.chunk.css.map": "/VehicleConfigurator/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.3f408fc5.chunk.css.map": "/VehicleConfigurator/static/css/main.3f408fc5.chunk.css.map",
+    "static/js/2.48204687.chunk.js.LICENSE.txt": "/VehicleConfigurator/static/js/2.48204687.chunk.js.LICENSE.txt",
+    "static/media/accessories1.jpg": "/VehicleConfigurator/static/media/accessories1.25d5bba4.jpg",
+    "static/media/accessories2.jpg": "/VehicleConfigurator/static/media/accessories2.b1bb9066.jpg",
+    "static/media/accessories3.jpg": "/VehicleConfigurator/static/media/accessories3.c504c9bf.jpg",
+    "static/media/armchair1.jpg": "/VehicleConfigurator/static/media/armchair1.b966343c.jpg",
+    "static/media/armchair2.jpg": "/VehicleConfigurator/static/media/armchair2.c2a190a5.jpg",
+    "static/media/armchair3.jpg": "/VehicleConfigurator/static/media/armchair3.8d921633.jpg",
+    "static/media/foto1.jpg": "/VehicleConfigurator/static/media/foto1.7cedb006.jpg",
+    "static/media/foto2.jpg": "/VehicleConfigurator/static/media/foto2.22f3ed92.jpg",
+    "static/media/foto3.jpg": "/VehicleConfigurator/static/media/foto3.fbb354cc.jpg",
+    "static/media/hoop1.jpg": "/VehicleConfigurator/static/media/hoop1.84b2ba0d.jpg",
+    "static/media/hoop2.jpg": "/VehicleConfigurator/static/media/hoop2.f351d120.jpg",
+    "static/media/hoop3.jpg": "/VehicleConfigurator/static/media/hoop3.00dd45b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d63e380b.js",
+    "static/css/2.3661fc73.chunk.css",
+    "static/js/2.48204687.chunk.js",
+    "static/css/main.3f408fc5.chunk.css",
+    "static/js/main.8872f1aa.chunk.js"
+  ]
+}
